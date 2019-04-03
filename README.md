@@ -34,7 +34,7 @@ auth.close(function(err) { ... })
 
 ## Install
 
-    npm install ldapauth-fork
+    npm install ldapauth-fork-jh
 
 ## `LdapAuth` Config Options
 
